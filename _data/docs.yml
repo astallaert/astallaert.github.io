@@ -1,13 +1,14 @@
-- title: Getting Started
+- title: RFP
   docs:
-  - home
+  - Go No-Go
   - quickstart
   - installation
   - usage
   - structure
   - configuration
+  - award
 
-- title: Your Content
+- title: Design Brief
   docs:
   - frontmatter
   - posts
