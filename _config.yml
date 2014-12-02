@@ -1,0 +1,14 @@
+---
+markdown: kramdown
+highlighter: pygments
+relative_permalinks: false
+permalink: "/news/:year/:month/:day/:title/"
+excerpt_separator: ''
+repository: https://github.com/astallaert/jekyll
+help_url: https://github.com/jekyll/jekyll-help
+collections:
+  docs:
+    output: true
+sass:
+  style: compressed
+baseurl: /jekyll
