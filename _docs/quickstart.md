@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Quick-start guide
+title: Adam is a Hero
 prev_section: home
 next_section: installation
 permalink: /docs/quickstart/
