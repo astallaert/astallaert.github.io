@@ -9,6 +9,7 @@ permalink: /docs/power-terminology/
 term
 : definition
 
+
 term
 : definition
 
