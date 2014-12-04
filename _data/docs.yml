@@ -28,14 +28,15 @@
   - data-codes
 
 
-- title: Public Address
-  docs:
-  - pa-introduction
-  - pa-terminology
-  - pa-codes
-
 - title: Security
   docs:
   - security-introduction
   - security-terminology
   - security-codes
+
+
+- title: Public Address
+  docs:
+  - pa-introduction
+  - pa-terminology
+  - pa-codes
