@@ -2,10 +2,10 @@
 layout: docs
 title: Welcome
 next_section: quickstart
-permalink: /docs/home/
+permalink: /projects/home/
 ---
 
-This site aims to be a guide to Electrical Engineering
+A listing of my projects
 
 ## So what is EE, exactly?
 
