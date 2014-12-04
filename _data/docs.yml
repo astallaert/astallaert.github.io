@@ -2,44 +2,40 @@
   docs:
   - power-introduction
   - power-terminology
+  - power-codes
   - distribution
   - overcurrent protection
   - transformers
 
 - title: Lighting
   docs:
-  - frontmatter
-  - posts
-  - drafts
-  - pages
-  - variables
-  - collections
-  - datafiles
-  - assets
-  - migrations
+  - lighting-introduction
+  - lighting-terminology
+  - lighting-codes
+
 
 - title: Fire Alarm
   docs:
-  - templates
-  - permalinks
-  - pagination
-  - plugins
-  - extras
+  - firealarm-introduction
+  - firealarm-terminology
+  - firealarm-codes
 
-- title: Public Address
-  docs:
-  - github-pages
-  - deployment-methods
-  - continuous-integration
 
 - title: Data/Voice/IT
   docs:
-  - troubleshooting
-  - sites
-  - resources
-  - upgrading
+  - data-introduction
+  - data-terminology
+  - data-codes
 
-- title: Meta
+
+- title: Public Address
   docs:
-  - contributing
-  - history
+  - pa-introduction
+  - pa-terminology
+  - pa-codes
+
+- title: Security
+  docs:
+  - security-introduction
+  - security-terminology
+  - security-codes
