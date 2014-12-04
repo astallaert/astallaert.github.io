@@ -1,14 +1,12 @@
-- title: RFP
+- title: Power
   docs:
-  - quickstart
-  - installation
-  - usage
-  - structure
-  - configuration
-  - award
-  - test
+  - power-introduction
+  - power-terminology
+  - distribution
+  - overcurrent protection
+  - transformers
 
-- title: Design Brief
+- title: Lighting
   docs:
   - frontmatter
   - posts
@@ -20,7 +18,7 @@
   - assets
   - migrations
 
-- title: Customization
+- title: Fire Alarm
   docs:
   - templates
   - permalinks
@@ -28,13 +26,13 @@
   - plugins
   - extras
 
-- title: Deployment
+- title: Public Address
   docs:
   - github-pages
   - deployment-methods
   - continuous-integration
 
-- title: Miscellaneous
+- title: Data/Voice/IT
   docs:
   - troubleshooting
   - sites
