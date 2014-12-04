@@ -4,11 +4,11 @@ highlighter: pygments
 relative_permalinks: false
 permalink: "/news/:year/:month/:day/:title/"
 excerpt_separator: ''
-repository: https://github.com/astallaert/jekyll
-help_url: https://github.com/jekyll/jekyll-help
+repository: https://github.com/astallaert/astallaert.github.io
+help_url: https://github.com/astallaert/astallaert.github.io
 collections:
   docs:
     output: true
 sass:
   style: compressed
-baseurl: /jekyll
+baseurl: /
