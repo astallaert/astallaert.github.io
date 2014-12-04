@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: projects
 title: Welcome
 next_section: quickstart
 permalink: /projects/home/
