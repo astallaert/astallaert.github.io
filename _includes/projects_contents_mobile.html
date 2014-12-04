@@ -3,7 +3,7 @@
     <option value="">Navigate the docs…</option>
     {% for section in site.data.projects %}
     <optgroup label="{{ section.title }}">
-      {% include docs_option.html items=section.projects %}
+      {% include projects_option.html items=section.docs %}
     </optgroup>
     {% endfor %}
   </select>
