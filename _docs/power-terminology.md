@@ -6,11 +6,13 @@ next_section: installation
 permalink: /docs/power-terminology/
 ---
 
-term
-: definition
+Panelboard
+: Houses CCT breakers
 
 
 term
 : definition
 
 Lorem Ipsum...
+
+*[CCT]: Circuit
