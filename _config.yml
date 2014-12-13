@@ -9,6 +9,10 @@ help_url: https://github.com/astallaert/astallaert.github.io
 collections:
   docs:
     output: true
+  ee:
+    output: true
+  projects:
+    output: true
 sass:
   style: compressed
 baseurl: 
