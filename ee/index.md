@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: ee
 title: Welcome
 next_section: quickstart
 permalink: /ee/home/
