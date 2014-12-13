@@ -1,7 +1,47 @@
-- title: Programming
+- title: Power
   docs:
-  - none
+  - power-introduction
+  - power-terminology
+  - power-codes
+  - distribution
+  - overcurrent protection
+  - transformers
 
-- title: Electronics
+- title: Lighting
   docs:
-  - none
+  - lighting-introduction
+  - lighting-terminology
+  - lighting-codes
+
+
+- title: Fire Alarm
+  docs:
+  - firealarm-introduction
+  - firealarm-terminology
+  - firealarm-codes
+  - firealarm-controlpanel
+  - firealarm-annunciator
+  - firealarm-initiation
+  - firealarm-signalling
+  - firealarm-interconnections
+
+
+- title: Data/Voice/IT
+  docs:
+  - data-introduction
+  - data-terminology
+  - data-codes
+
+
+- title: Security
+  docs:
+  - security-introduction
+  - security-terminology
+  - security-codes
+
+
+- title: Public Address
+  docs:
+  - pa-introduction
+  - pa-terminology
+  - pa-codes
