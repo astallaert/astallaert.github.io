@@ -5,7 +5,7 @@ next_section: quickstart
 permalink: /docs/home/
 ---
 
-This site aims to be a guide to Electrical Engineering
+This site aims to be a guide to Electrical Engineering as it pertains to building services.
 
 ## So what is EE, exactly?
 
