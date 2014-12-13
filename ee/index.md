@@ -1,8 +1,8 @@
 ---
-layout: docs
+layout: projects
 title: Welcome
 next_section: quickstart
-permalink: /docs/home/
+permalink: /ee/home/
 ---
 
 This site aims to be a guide to Electrical Engineering as it pertains to building services.
