@@ -3,7 +3,7 @@ layout: docs
 title: Introduction
 prev_section: home
 next_section: installation
-permalink: /docs/firealarm-introduction/
+permalink: /ee/firealarm-introduction/
 ---
 
 CCT

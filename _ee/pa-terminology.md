@@ -3,7 +3,7 @@ layout: docs
 title: Terminology
 prev_section: power-introduction
 next_section: installation
-permalink: /docs/pa-terminology/
+permalink: /ee/pa-terminology/
 ---
 
 Panelboard
