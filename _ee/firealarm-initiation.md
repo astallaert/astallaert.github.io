@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: ee
 title: Initiation
 prev_section: power-introduction
 next_section: installation

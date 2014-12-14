@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: ee
 title: Terminology
 prev_section: power-introduction
 next_section: installation

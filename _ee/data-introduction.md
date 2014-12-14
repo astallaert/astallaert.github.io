@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: ee
 title: Introduction
 prev_section: home
 next_section: installation
