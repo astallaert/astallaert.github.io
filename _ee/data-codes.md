@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: ee
 title: Codes and Standards
 prev_section: data-terminology
 next_section: security-introduction
