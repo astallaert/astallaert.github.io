@@ -32,7 +32,7 @@
   - data-terminology
   - data-codes
 
-
+<!--- these sections are much future.
 - title: Security
   docs:
   - security-introduction
@@ -45,3 +45,4 @@
   - pa-introduction
   - pa-terminology
   - pa-codes
+-->
