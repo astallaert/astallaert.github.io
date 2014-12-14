@@ -11,7 +11,7 @@
   <div class="right align-left">
     {% if page.next_section != null %}
       <a href="/ee/{{ page.next_section }}/" class="next">
-        page.next_section
+        {{ page.next_section }}
       </a>
     {% else %}
       <span class="next disabled">Next</span>
