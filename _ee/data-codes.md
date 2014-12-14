@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Codes and Standards
-prev_section: home
-next_section: installation
+prev_section: data-terminology
+next_section: security-introduction
 permalink: /ee/data-codes/
 ---
