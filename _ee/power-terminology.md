@@ -19,9 +19,7 @@ In laymans terms; An arc flash is the ginormous spark / flash that happens when 
 
 > Electrical bonding is the practice of intentionally electrically connecting all exposed metallic items not designed to carry electricity in a room or building as protection from electric shock.
 
-All "exposed metallic items not designed to carry electricity in a room or building", and in particular the electrical system, are connected together with a bonding conductor. This conductor is often bare copper or has a green sheething and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). At the electrical service entrance, will be a [ground]({{ site.baseurl }}/ee/power-terminology/#ground). This [ground]({{ site.baseurl }}/ee/power-terminology/#ground) is then extended, as a **bond**, to all "exposed metallic items not designed to carry electricity".
-
-The reason we bond all metals is to ensure that they all have the same [voltage]({{ site.baseurl }}/ee/power-terminology/#voltage). Where electricity comes into the building, the metal parts are electrically connected to ground, which ensures that all metal parts have a voltage of 0V (because they are all connected together).
+All "exposed metallic items not designed to carry electricity in a room or building", and in particular the electrical system, are connected together with a bonding [conductor]({{ site.baseurl }}/ee/power-terminology/#conductor). This [conductor]({{ site.baseurl }}/ee/power-terminology/#conductor) is often bare copper or has a green sheething and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). At the electrical [service entrance]({{ site.baseurl }}/ee/power-terminology/#service-entrance), will be a [ground]({{ site.baseurl }}/ee/power-terminology/#ground). This [ground]({{ site.baseurl }}/ee/power-terminology/#ground) is then extended, as a **bond**, to all "exposed metallic items not designed to carry electricity".
 
 #### Branch Circuit
 
@@ -68,6 +66,8 @@ The reason we bond all metals is to ensure that they all have the same [voltage]
 #### Raceway
 
 #### Runs of
+
+#### Service Entrance
 
 #### Single Phase
 
