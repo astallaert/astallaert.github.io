@@ -7,8 +7,7 @@ permalink: /ee/power-terminology/
 ---
 
 Panelboard
-: Houses CCT breakers
-
+: Houses CCT breakers  
 
 Arc Flash
 : [Wikipedia says:](http://en.wikipedia.org/wiki/Arc_flash)
