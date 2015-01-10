@@ -18,33 +18,61 @@ In laymans terms; An arc flash is the ginormous spark / flash that happens when 
 
 
 #### Bond
+
 #### Branch Circuit
+
 #### Bus Bar
+
 #### Circuit Breaker
+
 #### Conductor
+
 #### Conduit
+
 #### Current
+
 #### Disconnect
+
 #### Distribution Panel
+
 #### EMT
+
 #### Feeder
+
 #### Fuse
+
 #### Ground
+
 #### Ground Fault
+
 #### kVA
+
 #### Motor Starter
+
 #### Neutral
+
 #### Overcurrent Protection
+
 #### Parallel Conductors
+
 #### Power Factor
+
 #### Raceway
+
 #### Runs of
+
 #### Single Phase
+
 #### Switchgear
+
 #### Three Phase
+
 #### Transformer
+
 #### Variable Frequency Drive
+
 #### Voltage
+
 #### Watts
 
 
