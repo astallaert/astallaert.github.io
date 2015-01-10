@@ -6,9 +6,6 @@ next_section: installation
 permalink: /ee/power-terminology/
 ---
 
-Panelboard
-: Houses CCT breakers  
-  
 #### Arc Flash
 [Wikipedia says:](http://en.wikipedia.org/wiki/Arc_flash)
 
@@ -54,6 +51,8 @@ In laymans terms; An arc flash is the ginormous spark / flash that happens when 
 #### Neutral
 
 #### Overcurrent Protection
+
+#### Panelboard
 
 #### Parallel Conductors
 
