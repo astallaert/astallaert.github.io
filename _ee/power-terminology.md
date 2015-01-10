@@ -13,6 +13,7 @@ Arc Flash
 : [Wikipedia says:](http://en.wikipedia.org/wiki/Arc_flash)
 
 > An arc flash is the light and heat produced from an electric arc supplied with sufficient electrical energy to cause substantial damage, harm, fire, or injury. Electrical arcs experience negative resistance, which causes the electrical resistance to decrease as the arc temperature increases. 
+In laymans terms: An arc flash is the ginormous spark / flash that happens when something electrical goes wrong (see Fault). [Watch this YouTube](http://goo.gl/KFDkxk) video for a demonstration. 
 
 
 Bond
@@ -53,5 +54,6 @@ term
 
 Lorem Ipsum...
 
+*[Arc Flash]: An arc flash is the ginormous spark / flash that happens when something electrical goes wrong.
 *[CCT]: Circuit
 *[Ground Fault]: This is a ground fault
