@@ -14,7 +14,13 @@ permalink: /ee/power-terminology/
 In laymans terms; An arc flash is the ginormous spark / flash that happens when something electrical goes wrong (see [Fault]({{ site.baseurl }}/ee/power-terminology/#fault)). Watch [this](http://goo.gl/KFDkxk) YouTube video for a demonstration.
 
 
-#### Bond
+#### Bonding
+[Wikipedia says:](en.wikipedia.org/wiki/Electrical_bonding)
+
+> Electrical bonding is the practice of intentionally electrically connecting all exposed metallic items not designed to carry electricity in a room or building as protection from electric shock.
+
+In laymans terms:
+> All metal parts in an building, and in particular the electrical system, are connected together with a bonding conductor. This conductor is often bare copper or green and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). The reason this is done is to eliminate the possiblity that a metal parts inadvertantly become energized and electrocute someone. 
 
 #### Branch Circuit
 
@@ -85,5 +91,6 @@ term
 Lorem Ipsum...
 
 *[Arc Flash]: An arc flash is the ginormous spark / flash that happens when something electrical goes wrong.
+*[Bonding]: All metal parts in an building, and in particular the electrical system, are connected together with a bonding conductor. This conductor is often bare copper or green and erroneously referred to as the ground.
 *[CCT]: Circuit
 *[Ground Fault]: This is a ground fault
