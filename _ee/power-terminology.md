@@ -19,9 +19,7 @@ In laymans terms; An arc flash is the ginormous spark / flash that happens when 
 
 > Electrical bonding is the practice of intentionally electrically connecting all exposed metallic items not designed to carry electricity in a room or building as protection from electric shock.
 
-In laymans terms:
-
-> All metal parts in an building, and in particular the electrical system, are connected together with a bonding conductor. This conductor is often bare copper or green and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). The reason this is done is to eliminate the possiblity that a metal parts inadvertantly become energized and electrocute someone. 
+All metal parts in an building, and in particular the electrical system, are connected together with a bonding conductor. This conductor is often bare copper or has a green sheething and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). The reason we bond all metals is to ensure that they all have the same [voltage]({{ site.baseurl }}/ee/power-terminology/#voltage). Where electricity comes into the building, the metal parts are electrically connected to ground, which ensures that all metal parts have a voltage of 0V (because they are all connected together).
 
 #### Branch Circuit
 
