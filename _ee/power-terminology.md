@@ -10,64 +10,45 @@ Panelboard
 : Houses CCT breakers
 
 Arc Flash
-
-Conduit
-
-Raceway
-
-EMT
-
-Circuit Breaker
-
-Overcurrent Protection
-
-Fuse
-
-Disconnect
-
-Motor Starter
-
-Variable Frequency Drive
-
-Transformer
-
-Power Factor
-
-Conductor
-
-Runs of
-
-Parallel Conductors
-
-Feeder
-
-Branch Circuit
-
-Switchgear
-
-Distribution Panel
-
-Bus Bar
-
-Ground
-
+: An arc flash is the light and heat produced from an electric arc supplied with sufficient electrical energy to cause substantial damage, harm, fire, or injury. Electrical arcs experience negative resistance, which causes the electrical resistance to decrease as the arc temperature increases. 
 Bond
-
-Ground Fault
-
-Neutral
-
-Single Phase
-
-Three Phase
-
-Voltage
-
+Branch Circuit
+Bus Bar
+Circuit Breaker
+Conductor
+Conduit
 Current
-
+Disconnect
+Distribution Panel
+EMT
+Feeder
+Fuse
+Ground
+Ground Fault
+kVA
+Motor Starter
+Neutral
+Overcurrent Protection
+Parallel Conductors
+Power Factor
+Raceway
+Runs of
+Single Phase
+Switchgear
+Three Phase
+Transformer
+Variable Frequency Drive
+Voltage
 Watts
 
-kVA
+<blockquote>
+<p>As my fellow HTML5 Doctor, Oli Studholme has showed, people seldom quote exactly 
+– so sacrosanctity of the quoted text isn’t a useful ideal – and in print etc, 
+citations almost always appear as part of the quotation – it’s highly conventional.</p>
+<footer>
+— <cite><a href="http://www.brucelawson.co.uk/2013/on-citing-quotations-again/">Bruce Lawson</a></cite>
+</footer>
+</blockquote>
 
 
 
