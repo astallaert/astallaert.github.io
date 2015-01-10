@@ -10,7 +10,7 @@ Panelboard
 : Houses CCT breakers
 
 Arc Flash
-: (Wikipedia)[http://en.wikipedia.org/wiki/Arc_flash]
+: [Wikipedia says:](http://en.wikipedia.org/wiki/Arc_flash)
 
 > An arc flash is the light and heat produced from an electric arc supplied with sufficient electrical energy to cause substantial damage, harm, fire, or injury. Electrical arcs experience negative resistance, which causes the electrical resistance to decrease as the arc temperature increases. 
 
