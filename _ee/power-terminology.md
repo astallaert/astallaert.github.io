@@ -54,6 +54,9 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 #### Current
 
+The electrical version of flow rate. In a water pipe, flow rate is measured in gallons per minute (GPM), and in electrical the flow rate is measured in Amperes (Amps, A). At a given pressure, a larger water pipe is able to flow more water, which is also true in electrical; at a given voltage (voltage is electrical pressure), a larger conductor will pass more current. In water this is because of a phenomenon known as pressure drop, in electrical it is known as voltage drop. Because pressure (voltage) is a potential energy, and energy cannot be created or destroyed (see [conservation of energy](http://en.wikipedia.org/wiki/Conservation_of_energy)), this potential energy is dissipated thermal energy (heat). In a water pipe, typically this not an issue. In a conductor, this thermal dissipation of energy (heat) is the main reason conductors need to be larger for higher currents. Voltage drop is typically a secondary concern and only applicable to long conductor runs.
+
+
 #### Disconnect
 
 Defined in the Ontario Electrical Safety Code (2012) as:
@@ -126,9 +129,19 @@ Think of a water line entering a bathroom. If you add up the water flow for all 
 
 #### Transformer
 
+#### Trip
+
+When a circuit has too much current flowing through it and the overcurrent protection device operates
+
+> The mechanical engineer plugged in too many electric heaters and tripped the circuit breaker.
+
 #### Variable Frequency Drive
 
 #### Voltage
+
+A measure of the electric potential _difference_ between two points.
+
+Voltage is the measurement of electrical pressure. It is analogous to pressure in a water pipe. Water through a faucet will flow at a given rate at a given pressure. If the water pressure were to increase the water would flow at a faster rate through that same faucet (for water flow, see [current]({{ site.baseurl }}/ee/power-terminology/#circuit-breaker). Faucets require a certain water pressure to operate as intended, just as electrical devices are designed to operate at a certain electrical pressure (voltage). The similarities continue with water pipes and electrical conductors. A water pipe will be designed with a maximum pressure rating, but is equally capable of carrying any pressure less than the maximum, as an electrical conductor is designed with a maximum voltage rating, but is equally capable of carrying any voltage less than the maximum.
 
 #### Watts
 
