@@ -34,6 +34,10 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 #### Bus Bar
 
+[Wikipedia says:](http://en.wikipedia.org/wiki/Busbar)
+
+> In electrical power distribution, a busbar (also spelled bus bar, or sometimes as buss bar or bussbar, with the term bus being a contraction of the Latin omnibus, "for all") is a strip or bar of copper, brass or aluminium that conducts electricity within a switchboard, distribution board, substation, battery ...
+
 #### Circuit Breaker
 
 Defined in the Ontario Electrical Safety Code (2012) as:
@@ -65,6 +69,10 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 #### Distribution Panel
 
+[Wikipedia says:](http://en.wikipedia.org/wiki/Distribution_board)
+
+> A distribution board (also known as panelboard or breaker panel) is a component of an electricity supply system which divides an electrical power feed into subsidiary circuits, while providing a protective fuse or circuit breaker for each circuit, in a common enclosure.
+
 #### EMT
 
 Defined in the Ontario Electrical Safety Code (2012) as:
@@ -72,6 +80,13 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 > A raceway of metal having circular cross-section into which it is intended that conductors be drawn and that has a wall thinner than that of rigid metal conduit and an outside diameter sufficiently different from that of rigid conduit to render it impracticable for anyone to thread it with standard pipe thread.
 
 #### Fault
+
+[Wikipedia says:](http://en.wikipedia.org/wiki/Fault_%28power_engineering%29)
+
+a fault is any abnormal electric current. For example, a short circuit is a fault in which current bypasses the normal load. An open-circuit fault occurs if a circuit is interrupted by some failure.
+
+A cut wire would cause a fault (open circuit).  
+A fork in a receptacle would cause a fault (short circuit).
 
 #### Feeder
 
