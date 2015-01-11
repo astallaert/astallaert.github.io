@@ -102,7 +102,9 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 > Any device capable of automatically opening an electric circuit, under both predetermined overload and short-circuit conditions, either by fusing of metal or by electromechanical means.
 
-Overcurrent protection is typically either a [circuit breaker]({{ site.baseurl }}/ee/power-terminology/#circuit-breaker) or a [fuse]({{ site.baseurl }}/ee/power-terminology/#fuse). Electrical utilities and some very large facilities will use protection relays [Wikipedia: Protection Relay](http://en.wikipedia.org/wiki/Protective_relay). In layman's terms, an overcurrent device turns off (trips) when too much [current]({{ site.baseurl }}/ee/power-terminology/#current) flows through it. 
+Overcurrent protection is typically either a [circuit breaker]({{ site.baseurl }}/ee/power-terminology/#circuit-breaker) or a [fuse]({{ site.baseurl }}/ee/power-terminology/#fuse). Electrical utilities and some very large facilities will use [protection relays](http://en.wikipedia.org/wiki/Protective_relay). In layman's terms, an overcurrent device turns off (trips) when too much [current]({{ site.baseurl }}/ee/power-terminology/#current) flows through it.
+
+Think of a water line entering a bathroom. If you add up the water flow for all the fixtures in the bathroom (sink, toilet, shower) then you know the maximum water flow that should ever be through the water line entering the bathroom. If the water flow ever exceeds that amount, you must have a leak. A device that would turn the water off automatically under this condition would be analogous to an overcurrent protection device.
 
 #### Panelboard
 
