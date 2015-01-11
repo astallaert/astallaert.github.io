@@ -19,35 +19,76 @@ In laymans terms; An arc flash is the ginormous spark / flash that happens when 
 
 > Electrical bonding is the practice of intentionally electrically connecting all exposed metallic items not designed to carry electricity in a room or building as protection from electric shock.
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A low impedance path obtained by permanently joining all non-current-carrying metal parts to
+ensure electrical continuity and having the capacity to conduct safely any current likely to be imposed on it.
+
 All "exposed metallic items not designed to carry electricity in a room or building", and in particular the electrical system, are connected together with a bonding [conductor]({{ site.baseurl }}/ee/power-terminology/#conductor). This [conductor]({{ site.baseurl }}/ee/power-terminology/#conductor) is often bare copper or has a green sheething and erroneously referred to as the [ground]({{ site.baseurl }}/ee/power-terminology/#ground). At the electrical [service entrance]({{ site.baseurl }}/ee/power-terminology/#service-entrance), will be a [ground]({{ site.baseurl }}/ee/power-terminology/#ground). This [ground]({{ site.baseurl }}/ee/power-terminology/#ground) is then extended, as a **bond**, to all "exposed metallic items not designed to carry electricity".
 
 #### Branch Circuit
+
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> That portion of the wiring installation between the final overcurrent device protecting the circuit and the outlet(s).
 
 #### Bus Bar
 
 #### Circuit Breaker
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A device designed to open and close a circuit by non-automatic means and to open the circuit automatically on a predetermined overcurrent without damage to itself when properly applied within its ratings.
+
 #### Conductor
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A wire or cable, or other form of metal, installed for the purpose of conveying electric current from one piece of electrical equipment to another or to ground.
+
 #### Conduit
+
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A raceway of circular cross-section, other than electrical metallic tubing and electrical non-metallic tubing, into which it is intended that conductors be drawn.
 
 #### Current
 
 #### Disconnect
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A device, group of devices, or other means whereby the conductors of a circuit can be disconnected from their source of supply.
+
 #### Distribution Panel
 
 #### EMT
+
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A raceway of metal having circular cross-section into which it is intended that conductors be drawn and that has a wall thinner than that of rigid metal conduit and an outside diameter sufficiently different from that of rigid conduit to render it impracticable for anyone to thread it with standard pipe thread.
 
 #### Fault
 
 #### Feeder
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+>Any portion of an electrical circuit between the service box or other source of supply and the branch circuit overcurrent devices.
+
 #### Fuse
 
 #### Ground
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> A connection to earth obtained by a grounding electrode.
+
 #### Ground Fault
+
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> An unintentional electrical path between a part operating normally at some potential to ground, and ground.
 
 #### kVA
 
