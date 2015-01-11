@@ -98,6 +98,12 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 #### Overcurrent Protection
 
+Defined in the Ontario Electrical Safety Code (2012) as:
+
+> Any device capable of automatically opening an electric circuit, under both predetermined overload and short-circuit conditions, either by fusing of metal or by electromechanical means.
+
+Overcurrent protection is typically either a [circuit breaker]({{ site.baseurl }}/ee/power-terminology/#circuit-breaker) or a [fuse]({{ site.baseurl }}/ee/power-terminology/#fuse). Electrical utilities and some very large facilities will use protection relays [Wikipedia: Protection Relay](http://en.wikipedia.org/wiki/Protective_relay). In layman's terms, an overcurrent device turns off (trips) when too much [current]({{ site.baseurl }}/ee/power-terminology/#current) flows through it. 
+
 #### Panelboard
 
 #### Parallel Conductors
