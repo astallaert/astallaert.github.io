@@ -5,12 +5,11 @@ next_section: quickstart
 permalink: /ee/home/
 ---
 
-This site aims to be a guide to Electrical Engineering as it pertains to building services.
+This page aims to be a basic guide to Electrical Engineering as it pertains to building services.
 
-## So what is EE, exactly?
+## Introduction
 
-**for
-free**.
+.
 
 If you come across anything along the way that we haven’t covered, or if you
 know of a tip you think others would find handy, please [file an
