@@ -4,14 +4,4 @@ title: About the Author
 permalink: /about/home/
 ---
 
-This site aims to be a guide to Electrical Engineering as it pertains to building services.
-
-## So what is EE, exactly?
-
-**for
-free**.
-
-If you come across anything along the way that we haven’t covered, or if you
-know of a tip you think others would find handy, please [file an
-issue]({{ site.repository }}/issues/new) and we’ll see about
-including it in this guide.
+This site aims to be a collection of most everything I know. So far I have very little here, which is probably not far off from everything I know.
