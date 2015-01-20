@@ -96,6 +96,8 @@ Defined in the Ontario Electrical Safety Code (2012) as:
 
 #### Fuse
 
+A fuse is a type of [overcurrent protection]( {{site.baseurl }}/ee/power-terminology/#overcurrent-protection). It is a sacrificial piece, meaning that once it 'blows' it must be replaced, unlike a [circuit breaker]( {{site.baseurl }}/ee/power-terminology/#circuit-breaker) which can be reset. More information can be found on [wikipedia](http://en.wikipedia.org/wiki/Fuse_%28electrical%29)
+
 #### Ground
 
 Defined in the Ontario Electrical Safety Code (2012) as:
